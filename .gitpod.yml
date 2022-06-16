@@ -4,4 +4,4 @@
 
 tasks:
   - init: npm install
-  - init: npm install -g expo-cli
+    command: npm install -g expo-cli
