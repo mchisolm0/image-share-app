@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -105,3 +106,19 @@ dist
 .expo/packager-info.json
 .expo/README.md
 .expo/settings.json
+=======
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+>>>>>>> 0763fd5674293cb1bbffbe21425f5dfce6ae3d20
