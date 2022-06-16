@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image } from 'react-native';
-import { logo } from './assets/logo.png';
+import logo from './assets/logo.png';
 
 export default function App() {
   return (
@@ -32,5 +32,7 @@ const styles = StyleSheet.create({
   logo: {
     width: 305,
     height: 159,
+    padding: 10,
+    
   },
 });
