@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
   instructions: {
     color: '#888',
     fontSize: 18,
+    marginHorizontal: 15,
   },
   buttonText: {
 
@@ -33,6 +34,6 @@ const styles = StyleSheet.create({
     width: 305,
     height: 159,
     padding: 10,
-    
+    marginBottom: 10,
   },
 });
