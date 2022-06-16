@@ -4,4 +4,5 @@
 
 tasks:
   - init: npm install
-    command: npm install -g expo-cli
+    command: npm i -g expo-cli
+    command: npm i -g @expo/ngrok@^4.1.0
